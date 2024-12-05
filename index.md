@@ -2,15 +2,8 @@
 layout: default
 ---
 
-Welcome, I'm César.
+hi, i'm glenn.
 
-I'm a curious Software Engineer with a passion for building systems both
-professionally and for myself.
+i'm a curious technologist living in east oakland, ca. my interests include bookcraft, decentralization, and tools for collective care and attention. i hang out in east oakland with [amy](https://amyrwong.org), our kiddo, and a couple land seals.  
 
-As a generalist, I enjoy using a variety of programming languages, frameworks
-and technologies to build and maintain systems across the tech stack.
-
-Besides coding, I'm interested in language learning, chess, cybersecurity,
-personal finance and more. I sometimes [blog](/blog) about my interests.
-
-Read more [about me](/about) or find out [what I'm doing now](/now).
+[**say hello**](/contact)

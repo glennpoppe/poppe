@@ -1,20 +1,13 @@
 ---
-title: Projects
+title:
 layout: page
-description: My projects
+description: my projects
 ---
 
-Some of the projects I've created over the years.
+- 📚 [catalog](https://catalog.fyi): open-source social network for book people, built with love on the internet archive's open library
 
-### Currently maintained
+- 🌳 [oak.coop](https://oak.coop): an experiment in grounding the web. how might we rewild the internet with local roots?
 
-- [co2.fyi](https://co2.fyi):
-    A data aggregation site that provides useful CO2 emissions reports by country.
-- [isitbankholiday.com](https://isitbankholiday.com):
-    A website that tells you if today, or any other day in the future, is a
-    bank holiday in England and Wales.
+- 🏛️ [fopl.org](https://fopl.org): non-profit supporting the oakland public library and running the bookmark bookstore downtown    
 
-### Archive
-
-- [Heron Python](https://pypi.org/project/heron-data/):
-    A Python library to integrate with the [Heron Data API](https://docs.herondata.io/api).
+- 🍋 [sad sack lemon works](/lemonworks): producing lemon ale, lemon wine, & limoncello from backyard lemons & local honey     

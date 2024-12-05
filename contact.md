@@ -1,16 +1,10 @@
 ---
-title: Contact
+title:
 layout: page
-excerpt: Contact me
+excerpt: contact
 ---
 
-Get in touch via email:
-
-<code>contact&#x40;<span style="display: none;">nobots</span>ferrad.as</code>
-
-I can also be found as:
-{% for contact in site.author.contacts -%}
-- [{{ contact.handle }}]({{ contact.url }}) on {{ contact.name }}
-{% endfor %}
-
-If you see my name or handle anywhere else online, it's likely not me.
+get in touch:
+- email: [glenn@pop.pe](mailto:glenn@pop.pe)
+- bluesky: [@pop.pe](https://bsky.app/profile/pop.pe)
+- signal: [@popp01](https://signal.me/#eu/Ap5OFNrfR6BL-0vbws77Fk7BziNnPAfVdVNH-9jUfYP9D3gsGbpHmrnb4AOgrd4U)

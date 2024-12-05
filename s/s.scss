@@ -3,8 +3,9 @@
 
 :root {
     color-scheme: light dark;
-    --bg: #fff;
-    --fg: #000;
+    --bg: #1a2f1a;
+    --fg: #ffffff;
+    --accent: #ff5733;
     line-height: 1.6;
     font-size: 17px;
     font-family: system-ui, sans-serif;
@@ -47,7 +48,7 @@ figcaption, code {
 a,
 a:hover {
     text-decoration: underline;
-    text-decoration-color: dodgerblue;
+    text-decoration-color: var(--accent);
     text-decoration-thickness: 2px;
 }
 
@@ -65,6 +66,7 @@ nav a {
     margin-right: 12px;
     font-weight: 500;
     text-decoration: none;
+    color: var(--accent);
 }
 
 strong {
@@ -96,7 +98,7 @@ button, input[type=submit] {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #15161b;
+        --bg: #1a2f1a;
         --fg: #fff;
     }
 }
