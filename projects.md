@@ -4,9 +4,9 @@ layout: page
 description: my projects
 ---
 
-- 📚 [catalog](https://catalog.fyi): an open-source social network for book people, built with love on the internet archive's open library
+- 📖 [homecode](https://www.globalinnovation.info/): a local-first digital tool library and education program, hosted at the lepage center for global innovation at dominican university
 
-- 🌳 [oak.coop](https://oak.coop): an experiment in grounding the web, exploring how we might rewild the internet with local roots
+- 🔮 [orb](https://www.oaklandreviewofbooks.org/): a hyperlocal exercise in counterprogramming and support for the oakland literary scene
 
 - 🏛️ [fopl.org](https://fopl.org): a non-profit supporting the oakland public library and running the bookmark bookstore downtown
 
