@@ -4,6 +4,8 @@ layout: page
 description: my projects
 ---
 
+- 🌳 oaklog: a digital commons for events in the oakland bay area, hosted by the relational tech project
+
 - 📖 [homecode](https://www.globalinnovation.info/): a local-first digital tool library and education program, hosted at the lepage center for global innovation at dominican university
 
 - 🔮 [orb](https://www.oaklandreviewofbooks.org/): a hyperlocal exercise in counterprogramming and support for the oakland literary scene
